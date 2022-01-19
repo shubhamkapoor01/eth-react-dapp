@@ -1,0 +1,22 @@
+.App {
+	display: flex;
+	flex-direction: column;
+}
+
+.App button {
+	width: 150px;
+	padding: 8px;
+	margin: auto;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.App input {
+	width: 200px;
+	margin: auto;
+	height: 20px;
+	padding: 8px;
+	text-align: center;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
